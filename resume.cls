@@ -1,6 +1,6 @@
 %%
-%% Daniel Cousineau's Resume LaTeX Class
-%% (c) 2009 Daniel Cousineau
+%% Patricia Realini's Resume LaTeX Class
+%% (c) 2023 Patricia Realini
 %% Licensed under the MIT license
 %%
 \NeedsTeXFormat{LaTeX2e}[1994/12/01]

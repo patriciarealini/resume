@@ -1,6 +1,6 @@
 # This is my resume!
 
-You can find a *mostly* recently compiled version of my resume in the [releases](https://github.com/dcousineau/resume/releases).
+You can find a *mostly* recently compiled version of my resume in the [releases](https://github.com/patriciarealini/resume/releases).
 
 ## Building the Source
 
